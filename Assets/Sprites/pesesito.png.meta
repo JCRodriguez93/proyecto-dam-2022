@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 211f98a2e442ca84fb108709ecf432cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6043624382662570077
+    second: pesesito_
+  - first:
+      213: -8870156935106473990
+    second: pesesito_1
+  - first:
+      213: 3618304254184546789
+    second: pesesito_2
+  - first:
+      213: -7982806527756884375
+    second: pesesito_
+  - first:
+      213: 2556031192784561589
+    second: pesesito_4
+  - first:
+      213: 5141750105194683371
+    second: pesesito_5
+  - first:
+      213: -3568380822692008011
+    second: pesesito_6
+  - first:
+      213: -6992024820884759915
+    second: pesesito_7
+  - first:
+      213: -3541371129004067512
+    second: pesesito_8
+  - first:
+      213: 1781258306365811760
+    second: pesesito_9
+  - first:
+      213: -3244581644660524611
+    second: pesesito_10
+  - first:
+      213: -8976843396843532032
+    second: pesesito_11
+  - first:
+      213: 5033739192704737513
+    second: pesesito_12
+  - first:
+      213: -3463740629794476584
+    second: pesesito_13
+  - first:
+      213: 226738721109091072
+    second: pesesito_14
+  - first:
+      213: -4322783577734093014
+    second: pesesito_15
+  - first:
+      213: -6871711680117803863
+    second: pesesito_20
+  - first:
+      213: -5556608631001595684
+    second: pesesito_17
+  - first:
+      213: 5496854188705155451
+    second: pesesito_18
+  - first:
+      213: -3097094226515448125
+    second: pesesito_19
+  - first:
+      213: 7478891508225772980
+    second: pesesito_21
+  - first:
+      213: -3456379045308986352
+    second: pesesito_2q
+  - first:
+      213: -4156333435729947058
+    second: pesesito_2q
+  - first:
+      213: -5311663221932119964
+    second: pesesito_21
+  - first:
+      213: -2035717166163356631
+    second: pesesito_27
+  - first:
+      213: -3351786349316705705
+    second: pesesito_25
+  - first:
+      213: 1934363277376134091
+    second: pesesito_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pesesito_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2142
+        width: 486
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af028bf4abb02ca0800000000000000
+      internalID: -7982806527756884375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2149
+        width: 488
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc20d734fd6e480800000000000000
+      internalID: -8870156935106473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2150
+        width: 487
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e164ff6c8cc63230800000000000000
+      internalID: 3618304254184546789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2153
+        width: 486
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a16af1cf573190800000000000000
+      internalID: -6043624382662570077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1817
+        width: 485
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5edb0d3d8d87320800000000000000
+      internalID: 2556031192784561589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1824
+        width: 486
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd4ff7a7a2b5740800000000000000
+      internalID: 5141750105194683371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1811
+        width: 485
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf60204c809a7ec0800000000000000
+      internalID: -3568380822692008011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_7
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1828
+        width: 485
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1372887657fe90800000000000000
+      internalID: -6992024820884759915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1498
+        width: 485
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84573ed98b58adec0800000000000000
+      internalID: -3541371129004067512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_9
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1491
+        width: 485
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce52cfdfc48b810800000000000000
+      internalID: 1781258306365811760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_10
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1489
+        width: 485
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b1494f2ee8f2d0800000000000000
+      internalID: -3244581644660524611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_11
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1502
+        width: 485
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00194deed78db6380800000000000000
+      internalID: -8976843396843532032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1159
+        width: 485
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a029302f6bd540800000000000000
+      internalID: 5033739192704737513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1156
+        width: 485
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2307bf325eefc0800000000000000
+      internalID: -3463740629794476584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_14
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1151
+        width: 485
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a8806aa9852300800000000000000
+      internalID: 226738721109091072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1152
+        width: 485
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2764483d336204c0800000000000000
+      internalID: -4322783577734093014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 833
+        width: 487
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4fca382a6c2a0a0800000000000000
+      internalID: -6871711680117803863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 833
+        width: 486
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0c749e3e5f2e2b0800000000000000
+      internalID: -5556608631001595684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 832
+        width: 486
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7983e3d2cfb84c40800000000000000
+      internalID: 5496854188705155451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_19
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 829
+        width: 485
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce22a8c539e405d0800000000000000
+      internalID: -3097094226515448125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 489
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8b7da33c5ac760800000000000000
+      internalID: -5311663221932119964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_22
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 507
+        width: 486
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c014b22997800d0800000000000000
+      internalID: -4156333435729947058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_2q
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 502
+        width: 489
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46dc3be2ccb156c0800000000000000
+      internalID: -3456379045308986352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_21
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 501
+        width: 486
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468aa3a217e2946b0800000000000000
+      internalID: 7478891508225772980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 134
+        width: 487
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241ba7e50eafb3e0800000000000000
+      internalID: -2035717166163356631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 130
+        width: 487
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75279f5e2101c71d0800000000000000
+      internalID: -3351786349316705705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pesesito_26
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 131
+        width: 490
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb909ee62d38da10800000000000000
+      internalID: 1934363277376134091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pesesito_: -6043624382662570077
+      pesesito_1: -8870156935106473990
+      pesesito_10: -3244581644660524611
+      pesesito_11: -8976843396843532032
+      pesesito_12: 5033739192704737513
+      pesesito_13: -3463740629794476584
+      pesesito_14: 226738721109091072
+      pesesito_15: -4322783577734093014
+      pesesito_17: -5556608631001595684
+      pesesito_18: 5496854188705155451
+      pesesito_19: -3097094226515448125
+      pesesito_2: 3618304254184546789
+      pesesito_20: -6871711680117803863
+      pesesito_21: 7478891508225772980
+      pesesito_22: -4156333435729947058
+      pesesito_23: -5311663221932119964
+      pesesito_25: -3351786349316705705
+      pesesito_26: 1934363277376134091
+      pesesito_27: -2035717166163356631
+      pesesito_2q: -3456379045308986352
+      pesesito_3: -7982806527756884375
+      pesesito_4: 2556031192784561589
+      pesesito_5: 5141750105194683371
+      pesesito_6: -3568380822692008011
+      pesesito_7: -6992024820884759915
+      pesesito_8: -3541371129004067512
+      pesesito_9: 1781258306365811760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
